@@ -26,8 +26,4 @@ Aqui estão alguns tipos de projeto que você pode encontrar (substitua pelos se
 ### Pré-requisitos Gerais
 Para executar a maioria dos projetos, você precisará ter o Python instalado (versão 3.8 ou superior). É altamente recomendado o uso de ambientes virtuais para gerenciar as dependências de cada projeto.
 
-### Instalação e Execução (Passo a Passo)
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/DelSelf-Taught/Delmar_AI.git
-    cd Delmar_AI
+
